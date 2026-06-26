@@ -1,0 +1,3 @@
+The JA3 fingerprinting algorithm was developed by Salesforce and is described
+in their research at https://github.com/salesforce/ja3, also released under
+the BSD-2-Clause license.
